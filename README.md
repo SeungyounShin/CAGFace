@@ -10,4 +10,16 @@ https://arxiv.org/pdf/1910.08761.pdf
 * Python3
 
 ### Prepare data 
-WIDER face dataset is used. see the S3FD.pytorch git for more detail.
+Flickr-Faces-HQ dataset is used. 
+
+### Train
+You can use 
+``` 
+python train.py 
+``` 
+
+Refer the train.py files to check the arguement.
+
+### References
+* [CAGFace: Component Attention Guided Face Super-Resolution Network: CAGFace](https://arxiv.org/pdf/1910.08761.pdf)
+* [Bisenet.pytorch](https://github.com/CoinCheung/BiSeNet)
