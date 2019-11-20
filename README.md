@@ -4,6 +4,11 @@ Component Attention Guided Face Super-Resolution Network: CAGFace
 
 https://arxiv.org/pdf/1910.08761.pdf
 
+TODO
+- [x] x2 network
+- [ ] improve dataloader and preprocessin
+- [ ] x4 network 
+
 ### Requirement
 * pytorch 1.0 (checked at 1.0) 
 * matplotlib
