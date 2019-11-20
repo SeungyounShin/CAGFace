@@ -10,6 +10,7 @@ TODO
 - [x] x2 network
 - [ ] improve dataloader and preprocessin
 - [ ] x4 network 
+- [ ] evaluation
 
 ### Requirement
 * pytorch 1.0 (checked at 1.0) 
