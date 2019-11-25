@@ -4,7 +4,7 @@ Component Attention Guided Face Super-Resolution Network: CAGFace
 
 https://arxiv.org/pdf/1910.08761.pdf
 
-![x2_result](https://github.com/SeungyounShin/CAGFace/blob/master/results/Figure_1.png)
+![x2_result](https://github.com/SeungyounShin/CAGFace/blob/master/results/main3.png?raw=true)
 
 TODO
 - [x] x2 network
