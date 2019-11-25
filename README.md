@@ -8,7 +8,7 @@ https://arxiv.org/pdf/1910.08761.pdf
 
 TODO
 - [x] x2 network
-- [ ] improve dataloader and preprocessin
+- [ ] improve dataloader and preprocessing
 - [ ] x4 network 
 - [ ] evaluation
 
